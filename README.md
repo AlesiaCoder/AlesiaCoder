@@ -6,10 +6,10 @@
 ### <div align="center">I'm Alesia, a full-time full-stack developer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on [Hogwarts Express App](https://github.com/anaruedaguiu/hogwartsExpressApp)  
+- 🔭 I’m currently working on [NeverMore Academy](https://github.com/VeronikaKoma/nevermoreAcademy)  
   
 
-- 🌱 I’m currently learning Laravel  
+- 🌱 I’m currently learning Vue.js  
   
 
 - ❓ Ask me about anything related to web developement and graphic design :3
