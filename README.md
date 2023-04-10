@@ -6,7 +6,7 @@
 ### <div align="center">I'm Alesia, a full-time full-stack developer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on [NeverMore Academy](https://github.com/VeronikaKoma/nevermoreAcademy)  
+- 🔭 I’m currently working on [Vue project](https://github.com/AlesiaCoder/pokedex.git) 
   
 
 - 🌱 I’m currently learning Vue.js  
